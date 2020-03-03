@@ -1,6 +1,6 @@
 
-## Book Recommendation System
-# Il sovraccarico informativo danneggia l’attenzione
+# Book Recommendation System
+## Il sovraccarico informativo danneggia l’attenzione
 
 Tutti noi abbiamo la percezione di essere esposti ad un sovraccarico informativo crescente, con il quale ci viene chiesto di accettare senza indagini tutto ciò che ci viene offerto. L’uso di filtri è necessario per controllare la quantità (sempre crescente) e la qualità (sempre più scadente) dell’informazione al quale siamo esposti; il loro compito è quindi quello di permettere alle persone di concentrarsi solo sulle cose a cui le persone sono interessate.
 
